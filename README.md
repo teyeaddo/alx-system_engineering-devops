@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This repo contains various scripts and what they do
+this repo contains various scripts and what they do
