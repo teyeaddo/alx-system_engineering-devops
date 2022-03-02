@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-The first script #!/bn/bash pwd prints the absolute path name of the  working directory
+This repo contains various scripts and what they do
