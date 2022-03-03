@@ -1,1 +1,1 @@
-this repo contains various scripts and what they do
+This scripts changes the current user to user betty
