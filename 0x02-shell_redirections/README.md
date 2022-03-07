@@ -1,0 +1,1 @@
+0-hello_world is a script that rints "Hello, World" followed by a new line to standard output
